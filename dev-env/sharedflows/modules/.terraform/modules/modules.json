@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"proxy_deploy","Source":"/home/apigee/terraformWA/VISA/proxy_deploy","Dir":".terraform/modules/proxy_deploy"},{"Key":"proxy_import","Source":"/home/apigee/terraformWA/VISA/proxy_import","Dir":".terraform/modules/proxy_import"}]}
